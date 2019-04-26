@@ -16,3 +16,8 @@ screensaver
 
 all created, just cleaning up and also migrating to python 3
 
+
+Indeterminate Weather Flat Icons.
+
+Originally Based on Android Weather by bharathp666.deviantART.com, Modified and Extra Icons Added to Complete Weather Icon for Australia Excluding ACT and other Snowing Area's.
+
